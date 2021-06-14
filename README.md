@@ -10,4 +10,4 @@ This tutorial is created to illustrate the basic CRUD (Create , Read, Update, De
 - Run 'php artisan db:seed --class=StockTableSeeder'
 - Run php artisan serve
 
-Link to the tutorial : http://bishrulhaq.com/posts/crud-in-laravel-8
+Link to the tutorial : https://bishrulhaq.com/laravel/crud-in-laravel-8/
